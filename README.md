@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+🇧🇩 বাংলাদেশ সর্বোদলীয় পার্টি (BSP)
+Bangladesh Sorbodolio Party | Bangladesh Sorbodolioparty | BSP
 
-## Project info
+বাংলাদেশ সর্বোদলীয় পার্টি (Bangladesh Sorbodolio Party - BSP) একটি রাজনৈতিক সংগঠন, যার মূল লক্ষ্য ঐক্য, শান্তি ও উন্নয়ন প্রতিষ্ঠা করা।
+এই GitHub repository তে পার্টির official website source code, structure এবং development সংক্রান্ত সকল তথ্য সংরক্ষিত আছে।
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🔎 About BSP
 
-## How can I edit this code?
+বাংলাদেশ সর্বোদলীয় পার্টি (BSP) বিশ্বাস করে—
 
-There are several ways of editing your application.
+জাতীয় ঐক্য
 
-**Use Lovable**
+সুশাসন
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+দুর্নীতিমুক্ত প্রশাসন
 
-Changes made via Lovable will be committed automatically to this repo.
+যুব শক্তির অংশগ্রহণ
 
-**Use your preferred IDE**
+গণতান্ত্রিক মূল্যবোধ
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+ন্যায়বিচার ও মানবাধিকার
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Bangladesh Sorbodolio Party দেশের জনগণের কণ্ঠস্বর তুলে ধরতে এবং বাস্তব উন্নয়নমূলক নীতিমালা বাস্তবায়নে কাজ করে যাচ্ছে।
 
-Follow these steps:
+🌐 Official Keywords (SEO Optimized)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+এই repository এবং website নিচের নামগুলো দ্বারা পরিচিত হতে পারে:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+sorbodolioparty
 
-# Step 3: Install the necessary dependencies.
-npm i
+bangladeshsorbodolioparty
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+bangladesh sorbodolio party
 
-**Edit a file directly in GitHub**
+BSP
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+bsp-sorbodolio party
 
-**Use GitHub Codespaces**
+bsp-bangladeshsorbodolioparty
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+বাংলাদেশ সর্বোদলীয় পার্টি
 
-## What technologies are used for this project?
+সর্বোদলীয় পার্টি বাংলাদেশ
 
-This project is built with:
+BSP Bangladesh
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🚀 Project Information
 
-## How can I deploy this project?
+🌍 Live Website: https://bsp-sorbodolioparty.vercel.app/
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🏷 Organization: Bangladesh Sorbodolio Party (BSP)
 
-## Can I connect a custom domain to my Lovable project?
+🖥 Tech Stack: React + Vite + TypeScript
 
-Yes, you can!
+☁ Deployment: Vercel
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📁 Repository Type: Official Political Party Website Source
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🎯 Vision & Mission
+
+বাংলাদেশ সর্বোদলীয় পার্টির লক্ষ্য:
+
+✔ জাতীয় ঐক্য গঠন
+✔ শান্তিপূর্ণ রাজনৈতিক পরিবেশ তৈরি
+✔ টেকসই উন্নয়ন বাস্তবায়ন
+✔ জনগণের অধিকার নিশ্চিত করা
+✔ স্বচ্ছ ও জবাবদিহিমূলক প্রশাসন প্রতিষ্ঠা
+
+Bangladesh Sorbodolio Party একটি ভবিষ্যতমুখী রাজনৈতিক শক্তি হিসেবে কাজ করছে।
+
+📌 Why This Repository Matters
+
+এই GitHub repository টি:
+
+বাংলাদেশ সর্বোদলীয় পার্টির official website source code ধারণ করে
+
+BSP এর ডিজিটাল উপস্থিতি নিশ্চিত করে
+
+রাজনৈতিক ও সাংগঠনিক কার্যক্রম অনলাইনে তুলে ধরে
+
+ওপেন ডেভেলপমেন্ট ও স্বচ্ছতা বজায় রাখে
+
+🔗 Connect With BSP
+
+Bangladesh Sorbodolio Party (BSP) সম্পর্কিত আপডেট ও কার্যক্রম জানতে official website ভিজিট করুন।
+
+👉 https://bsp-sorbodolioparty.vercel.app/
+
+📖 SEO Description (Search Optimized Summary)
+
+বাংলাদেশ সর্বোদলীয় পার্টি (Bangladesh Sorbodolio Party - BSP) একটি রাজনৈতিক সংগঠন যা ঐক্য, শান্তি ও উন্নয়নের লক্ষ্যে কাজ করে। sorbodolioparty, bangladeshsorbodolioparty, bsp-sorbodolio party এবং bsp-bangladeshsorbodolioparty নামেও পরিচিত। এই repository তে BSP এর official website source code সংরক্ষিত আছে।
+
+📜 License
+
+This project represents the official digital presence of Bangladesh Sorbodolio Party (BSP).
